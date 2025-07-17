@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![cat](https://giphy.com/gifs/cat-kitty-KtKi9n1k5h5bW)
 <!--
 **Aorok/Aorok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
